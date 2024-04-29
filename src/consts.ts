@@ -1,81 +1,77 @@
-import type { Site, Page, Links, Socials } from "@types"
+import type { Site, Page, Links, Socials } from "@types";
 
 // Global
 export const SITE: Site = {
-  TITLE: "Astro Sphere",
-  DESCRIPTION: "Welcome to Astro Sphere, a portfolio and blog for designers and developers.",
-  AUTHOR: "Mark Horn",
-}
+  TITLE: "Softwareentwicklung EB",
+  DESCRIPTION:
+    "Willkommen auf meiner Portfolio Seite. Schau dir meine Projekte an und kontaktiere mich für professionelle Webseiten, Software- oder App-Entwicklung.",
+  AUTHOR: "Erik Blank",
+};
 
 // Work Page
 export const WORK: Page = {
-  TITLE: "Work",
-  DESCRIPTION: "Places I have worked.",
-}
+  TITLE: "Erfahrungen",
+  DESCRIPTION: "Hier habe ich gearbeitet.",
+};
 
 // Blog Page
 export const BLOG: Page = {
   TITLE: "Blog",
-  DESCRIPTION: "Writing on topics I am passionate about.",
-}
+  DESCRIPTION:
+    "Hier schreibe ich über Themen, die mich besonders interessieren oder ich mit euch teilen möchte.",
+};
 
-// Projects Page 
+// Projects Page
 export const PROJECTS: Page = {
-  TITLE: "Projects",
-  DESCRIPTION: "Recent projects I have worked on.",
-}
+  TITLE: "Projekte",
+  DESCRIPTION:
+    "Eine Übersicht über die aktuellsten Projekte, die ich realisiert habe oder an denen ich arbeite.",
+};
 
 // Search Page
 export const SEARCH: Page = {
-  TITLE: "Search",
-  DESCRIPTION: "Search all posts and projects by keyword.",
-}
+  TITLE: "Suche",
+  DESCRIPTION: "Durchsuche die Posts nach Keywords.",
+};
 
 // Links
 export const LINKS: Links = [
-  { 
-    TEXT: "Home", 
-    HREF: "/", 
+  {
+    TEXT: "Home",
+    HREF: "/",
   },
-  { 
-    TEXT: "Work", 
-    HREF: "/work", 
+  {
+    TEXT: "Erfahrung",
+    HREF: "/work",
   },
-  { 
-    TEXT: "Blog", 
-    HREF: "/blog", 
+  // {
+  //   TEXT: "Blog",
+  //   HREF: "/blog",
+  // },
+  {
+    TEXT: "Projekte",
+    HREF: "/projects",
   },
-  { 
-    TEXT: "Projects", 
-    HREF: "/projects", 
-  },
-]
+];
 
 // Socials
 export const SOCIALS: Socials = [
-  { 
+  {
     NAME: "Email",
-    ICON: "email", 
-    TEXT: "markhorn.dev@gmail.com",
-    HREF: "mailto:markhorn.dev@gmail.com",
+    ICON: "email",
+    TEXT: "erikblank97@web.de",
+    HREF: "mailto:erikblank97@web.de",
   },
-  { 
+  {
     NAME: "Github",
     ICON: "github",
-    TEXT: "markhorn-dev",
-    HREF: "https://github.com/markhorn-dev/astro-sphere"
+    TEXT: "erikblank",
+    HREF: "https://github.com/erikblank",
   },
-  { 
+  {
     NAME: "LinkedIn",
     ICON: "linkedin",
-    TEXT: "markhorn-dev",
-    HREF: "https://www.linkedin.com/in/markhorn-dev/",
+    TEXT: "Erik Blank",
+    HREF: "https://www.linkedin.com/in/erik-blank-923786196/",
   },
-  { 
-    NAME: "Twitter",
-    ICON: "twitter-x",
-    TEXT: "markhorn_dev",
-    HREF: "https://twitter.com/markhorn_dev",
-  },
-]
-
+];
