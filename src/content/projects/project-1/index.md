@@ -11,7 +11,7 @@ tags:
 demoUrl: https://seniorcare-box.de/
 ---
 
-![Responsives Design der Webseite Seniorcare-box.de](/public/images/seniorcare-box-website.png)
+![Responsives Design der Webseite Seniorcare-box.de](/images/seniorcare-box-website.png)
 
 Für die [SeniorCare GmbH](https://www.seniorcare-gmbh.de/) entwickelte ich eine professionelle Website zur Präsentation und Bestellung ihrer CareBox, einem Service, der Pflegebedürftigen Pflegehilfsmittel liefert. Die Website dient als zentrale Informations- und Bestellplattform und ist speziell auf die Bedürfnisse der Zielgruppe abgestimmt.
 

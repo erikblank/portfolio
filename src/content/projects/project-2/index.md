@@ -9,7 +9,7 @@ tags:
   - Liquid
 ---
 
-![Responsives Design für einen Online Shop für den Muttertag](/public/images/mamore-jewelry.png)
+![Responsives Design für einen Online Shop für den Muttertag](/images/mamore-jewelry.png)
 
 Mit dem Muttertag gleich um die Ecke erhielt ich die aufregende Herausforderung, für einen Kunden schnellstmöglich einen Online-Shop zu erstellen. Der Kunde wollte nur zwei Wochen vor dem Muttertag beginnen, seine Produkte auch online anzubieten, um die besondere Nachfrage zu nutzen.
 
