@@ -12,7 +12,7 @@ Schäffnerstraße 21</br>
 ## Kontakt
 
 Telefon: +49 17631363073</br>
-E-Mail: erikblank97@web.de</br>
+E-Mail: servus@erikblank.de</br>
 
 ## Redaktionell verantwortlich
 
